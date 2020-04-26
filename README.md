@@ -5,7 +5,7 @@ The paper has accepted by Neurocomputing.
 
 **If you find this work is useful, please cite this paper.**
 
->@article{ZHOU2020,
+@article{ZHOU2020,
 title = "Surrogate-Assisted Evolutionary Search of Spiking Neural Architectures in Liquid State Machines",
 journal = "Neurocomputing",
 year = "2020",
