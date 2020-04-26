@@ -3,6 +3,6 @@ Codes of the paper of "Surrogate-Assisted Evolutionary Search of Spiking Neural 
 
 The paper has accepted by Neurocomputing. 
 
-**If this work is useful, please cite this paper. **
+**If you find this work is useful, please cite this paper.**
 
 **Please send me email if you have any questions when using this code.**
